@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on creating Machine Learning,Deep Learning models for Real World use cases.
 - 👯 I’m looking to collaborate on on Data Science Projects.
-- 📄 Know about my experiences [here](https://drive.google.com/drive/u/0/search?q=resume).
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/17QKVMrxfC5lbMbixsYtHtcGlDIF2xolh/view?usp=sharing).
 - 📫 How to reach me https://www.linkedin.com/in/sumit-mhaiskar-709405132/
 
 ## Languages and Tools:
